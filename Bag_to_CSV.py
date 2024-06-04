@@ -91,4 +91,5 @@ def process_bag_files(raw_data_folder_path):
 if __name__ == "__main__":
     raw_data_folder_path = r"G:\Data Analysis Sets\2023_05_13\Test1_10_03_C-R"
     process_bag_files(raw_data_folder_path)
+    print("processing......" )
     print('Done converting')
